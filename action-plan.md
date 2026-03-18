@@ -1,17 +1,18 @@
 # Forest Sensor Action Plan
 Gatlin Newhouse, Tim Pupkiewicz, Bart Massey 2026-03-18
 
-0a. Find actual funded proposal and review
-0b. Purchase initial HW
+0a. Find actual funded proposal and review (Gatlin)
+0b. Purchase initial HW (Gatlin, Tim)
    0.1. Solar panel (2×?)
    0.2. STM 32L4 and 32WLE5 eval boards (2×?)
-   0.3. NiMH LDR D batteries (9×)
+   0.3. NiMH LSD D batteries (9×)
    0.4. Buck converter components for breadboarding and/or COTS
         converter (ASAP)
    0.5. I2C Lora radio card for L4
-1. Select desired sensors
-2. Select target deployment
-3. Gather site and weather information
+   0.6. Flexible patch antennas for 70cm
+1. Select desired sensors (Josh, Gatlin)
+2. Find target deployment (Josh)
+3. Gather site and weather information (Tim)
 4. Talk to site folks and other experts for advice
    4.1. Physical packaging requirements?
    4.2. Solar panel requirements?
