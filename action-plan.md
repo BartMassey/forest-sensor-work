@@ -1,7 +1,8 @@
 # Forest Sensor Action Plan
 Gatlin Newhouse, Tim Pupkiewicz, Bart Massey 2026-03-18
 
-0a. Find actual funded proposal and review (Gatlin)
+0a. ~~Find actual funded proposal and review~~ No funding on this specific
+project, probably funded through a more generalized grant via Josh (Gatlin)
 0b. Purchase initial HW (Gatlin, Tim)
    0.1. Solar panel (2×?)
    0.2. STM 32L4 and 32WLE5 eval boards (2×?)
